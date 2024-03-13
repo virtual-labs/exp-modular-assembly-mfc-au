@@ -4,7 +4,7 @@
 <b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
 <b> Lab | <b> Biosensor Lab
-<b> Experiment|     <b> Phototrophic Microbial Fuel Cell using Chroococcus sp
+<b> Experiment|     <b> Modular assembly of MFC to increase voltage or current
 
 ### About the Experiment 
 
