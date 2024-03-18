@@ -2,51 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) Factor (s) favorable for improving the efficiency of an MFC.",
+      "question": "1) When serially connected, find the voltage produced when anolyte is ETP water with Chroococcus species, Catholyte KMNO4, MFC unit is 2, Anode: Cathode is Aluminium: Copper.",
       "answers": {
-        "a": "Cathode",
-        "b": "Anode",
-        "c": "PEM",
-        "d": "All the above"
-      },
-      
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-
-    {
-      "question": "2) Common electrode (s) used in MFC for maximum output",
-      "answers": {
-        "a": "Gold",
-        "b": "Silver",
-        "c": "Carbon mesh",
-        "d": "Titanium"
-      },
-      
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-
-    {
-      "question": "3) Which of the following is true regarding the series connection of MFC ?",
-      "answers": {
-        "a": "Current remains constant.",
-        "b": "Voltage remains constant.",
-        "c": "Current and voltage increases",
-        "d": "Current and voltage decreases"
-      },
-      
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-
-    {
-      "question": "4) Which of the following is true regarding the parallel connection of MFC ?",
-      "answers": {
-        "a": "Voltage increases and current remains constant.",
-        "b": "Current increases and voltage remain constant.",
-        "c": "Both voltage and current increases",
-        "d": "Both voltage and current decreases"
+        "a": "1.08V",
+        "b": "1.325V",
+        "c": "1.987V",
+        "d": "0.662V"
       },
       
       "correctAnswer": "b",
@@ -54,15 +15,67 @@
     },
 
     {
-      "question": "5) Which of the following can be used to improve power generation from MFC ?",
+      "question": "2) When connected in parallel, the value of current produced in 1 MFC unit, 2 MFC unit and 3 MFC unit when anolyte is ETP water with Chroococcus species, Catholyte KMNO4, MFC unit is 2, Anode: Cathode is Aluminium: Copper ",
       "answers": {
-        "a": "Single chambered MFC",
-        "b": "Double chambered MFC",
-        "c": "Stacked MFC",
-        "d": "All the above"
+        "a": "1.098mA, 2.198mA,3.29 mA",
+        "b": "2.198mA, 3.29 mA, 1.098mA",
+        "c": "0.28 mA,0.47 mA,1.57 mA",
+        "d": "0.47 mA, 1.57 mA, 0.28 mA"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3) When serially connected, find the voltage produced when anolyte is sewage water with Chroococcus species, Catholyte KMNO4, MFC unit is 3, Anode: Cathode is Aluminium: Copper.",
+      "answers": {
+        "a": "1.025V",
+        "b": "2.050V",
+        "c": "3.075V",
+        "d": "1.987V"
       },
       
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "4) When connected in parallel, the value of current produced in 1 MFC unit, 2 MFC unit and 3 MFC unit when anolyte is sewage water with Chroococcus species, Catholyte KMNO4, MFC unit is 2, Anode: Cathode is Aluminium: Copper ",
+      "answers": {
+        "a": "1.80 mA, 0.82 mA, 0.38 mA",
+        "b": "1.325 mA,2.68 mA, 3.98 mA",
+        "c": "0.9 mA, 2.06 mA, 3.2 mA",
+        "d": "0.38 mA, 1.86 mA, 2.55 mA"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "5) In the simulator, when connected parallelly, the cumulative current production is indicated by:",
+      "answers": {
+        "a": "Running a fan",
+        "b": "Glowing of bulb",
+        "c": "Current readings in multimeter",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "6) In the simulator, when connected in series, the cumulative voltage production is indicated by",
+      "answers": {
+        "a": "Running a fan",
+        "b": "Glowing of bulb",
+        "c": "Change in the color of the anolyte",
+        "d": "Change in the color of catholyte"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
