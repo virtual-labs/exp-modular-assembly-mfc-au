@@ -50,47 +50,53 @@ In parallel connection, the voltage remains constant after a period and current 
  
 
 4.	Users can then click on Reset button to restart the simulator. Select the connection as Parallel, select MFC unit as 2-unit, anolyte as sewage water with Chroococcus species, Catholyte as KMO4, Cathode as Copper and Anode as Aluminium.  
+
+
+<img src="images/7.png" title="" />
+
+&nbsp;
+ 
+
 At the same time IV Curve (Current Voltage curve) is plotted in the GUI.
 
+
+<img src="images/8.png" title="" />
+
+&nbsp;
+ 
  
 The maximum voltage produced is 1.180V
-Current and Voltage Readings
-Voltage (mV)	Current
-(mA)
-0	0
-0.4	0.62
-0.8	0.78
-1	1.4
-1.1	1.56
-1.18	1.72
-1.18	1.86
-1.18	2.06
-1.18	2.68
+
+
+<img src="images/9.png" title="" />
+
+&nbsp;
+ 
 
 5.	Users can then click on the Reset button to restart the simulator. Select the connection as Parallel, select MFC unit as 3-unit, anolyte as sewage water with Chroococcus species, Catholyte as KMO4, Cathode as Copper and Anode as Aluminium. 
+
+
+<img src="images/10.png" title="" />
+
+&nbsp;
  
+
 At the same time IV Curve ( Voltage versus Current) is plotted in the GUI.
 
 
 The maximum voltage produced is 1.180V
 
+
+
+<img src="images/11.png" title="" />
+
+&nbsp;
  
 
-Current and Voltage Readings
-Voltage (mV)	Current
-(mA)
-0	0
-0.4	0.96
-0.8	1.15
-1	2.15
-1.1	2.2
-1.18	2.55
-1.18	2.8
-1.18	3.2
-1.18	3.98
-
 From the IV curve of 1 unit, 2 unit and 3-unit MFC, it is observed that voltage remains constant at a time and current increases. When MFC units are connected in parallel the resulting current is the cumulative of the current produced in 1-unit MFC. 
-6.	Click on reset button to restart the experiment.
+
+6. Click on reset button to restart the experiment.
+
 7.	Then, users can change the anolyte as ETP water with Chroococcus species and can change other parameters to study the changes in voltage and current production.
 
 
